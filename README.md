@@ -1,10 +1,13 @@
 # SHOPPER: E-Commerce MERN Stack Application
+
 ## About the Project
 Shopper is a MERN Stack based E-commerce application to buy clothes online without any hassle.
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
 To begin using Shopper, follow these simple steps:
+
 
 ### Prerequisites
 Before getting started with Shopper, ensure that you have the following prerequisites installed and set up:
@@ -13,16 +16,22 @@ Before getting started with Shopper, ensure that you have the following prerequi
   npm install npm@latest -g
   ```
   
+
 # Setup Documentation
+
 
 ## Clone The Project
 git clone https://github.com/yukti-singhal/Shopper.git
+
+
 
 ### Install Frontend
 cd Frontend
 - npm install
 - npm start
 The frontend will be visible on your localhost.
+
+
 
 ### Install Backend
 cd Backend
@@ -39,6 +48,8 @@ Then update the mongoose.connect url by inserting your own username and password
 To run the backend server type "node ./index.js" in the integrated terminal.
 You can also check the working of the server by using the Thunderclient extension on VSCode.
 
+
+
 ### For the Admin Panel:
 cd Admin
 - npm create vite@latest
@@ -48,6 +59,9 @@ cd Admin
 The Admin panel will be up and running.
 
 Happy coding! 🚀
+
+
+
 
 #### What Technology Are Being Used In This Project
 
@@ -69,7 +83,13 @@ Happy coding! 🚀
 - **MongoDB**: MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product.
 - **Mongoose**: Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment.
 
+
+
+
 ## Project Screenshot
+
+
+
 
 
 ## Contributing:
@@ -95,6 +115,7 @@ Wait for the project's maintainers to review your pull request and provide feedb
 9. Once your pull request is approved and merged, your changes will become part of the project. Congratulations, you have successfully contributed to the project!
 
 Thank you for considering this project. If you have any questions, please do not hesitate to contact me.
+
 
 
 ## Contact Me
