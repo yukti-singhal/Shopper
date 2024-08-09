@@ -1,4 +1,4 @@
-# SHOPPER: E-Commerce MERN Stack Application
+# SHOPPER: MERN Stack Application
 
 ## About the Project
 Shopper is a MERN Stack based E-commerce application to buy clothes online without any hassle.
