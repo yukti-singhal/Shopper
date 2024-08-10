@@ -25,11 +25,16 @@ git clone https://github.com/yukti-singhal/Shopper.git
 
 
 
+
+
 ### Install Frontend
 cd Frontend
 - npm install
 - npm start
+
 The frontend will be visible on your localhost.
+
+
 
 
 
@@ -50,6 +55,8 @@ You can also check the working of the server by using the Thunderclient extensio
 
 
 
+
+
 ### For the Admin Panel:
 cd Admin
 - npm create vite@latest
@@ -63,7 +70,10 @@ Happy coding! 🚀
 
 
 
+
+
 #### What Technology Are Being Used In This Project
+
 
 **Frontend Technology Stack:** 
 - **React**: A JavaScript library for building user interfaces, offering a component-based architecture for creating interactive UIs.
@@ -72,6 +82,8 @@ Happy coding! 🚀
 - **Vite: Vite is a local development server. It has support for TypeScript and JSX. It uses Rollup and esbuild internally for bundling.
 - **CSS: Cascading Style Sheets for styling and responsiveness.
 
+
+
 **Backend Technology Stack:**
 - **Nodejs**: Node.js is a cross-platform, open-source JavaScript runtime environment.
 - **Express**: It is a back end web application framework for building RESTful APIs with Node.js.
@@ -79,9 +91,14 @@ Happy coding! 🚀
 - **Multer**: Multer is a node.js middleware for handling multipart/form-data , which is primarily used for uploading files.
 - **Cors**: The CORS mechanism supports secure cross-origin requests and data transfers between browsers and servers.
 
+
+
 **Database:**
 - **MongoDB**: MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product.
 - **Mongoose**: Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment.
+
+
+
 
 
 
@@ -93,6 +110,9 @@ Happy coding! 🚀
 ![image](https://github.com/user-attachments/assets/75285199-e78a-4a8c-8bec-19c9400ec3f9)
 ![image](https://github.com/user-attachments/assets/d83bba60-51c9-45fb-b18e-c6728644dd06)
 ![image](https://github.com/user-attachments/assets/5ea49e1d-0049-4a8d-8b22-031ee4155a06)
+
+
+
 
 
 
@@ -124,6 +144,8 @@ Wait for the project's maintainers to review your pull request and provide feedb
 9. Once your pull request is approved and merged, your changes will become part of the project. Congratulations, you have successfully contributed to the project!
 
 Thank you for considering this project. If you have any questions, please do not hesitate to contact me.
+
+
 
 
 
