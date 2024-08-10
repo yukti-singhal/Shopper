@@ -79,8 +79,8 @@ Happy coding! 🚀
 - **React**: A JavaScript library for building user interfaces, offering a component-based architecture for creating interactive UIs.
 - **Redux Toolkit:** A state management library for React applications, providing predictable state management with a single source of truth.
 - **React-router-dom:** React Router DOM is a popular library for routing in React applications.
-- **Vite: Vite is a local development server. It has support for TypeScript and JSX. It uses Rollup and esbuild internally for bundling.
-- **CSS: Cascading Style Sheets for styling and responsiveness.
+- **Vite:** Vite is a local development server. It has support for TypeScript and JSX. It uses Rollup and esbuild internally for bundling.
+- **CSS:** Cascading Style Sheets for styling and responsiveness.
 
 
 
